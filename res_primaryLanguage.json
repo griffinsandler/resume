@@ -1,0 +1,126 @@
+{
+    "basic_info": {
+      "description_header": "Welcome!",
+      "description": "Hello - I'm Griffin Sandler! I am a Software Engineer with 4 years of work experience in Python & Ruby on Rails. I am completing a MS in Computer Science from Georgia Tech with a specialization in Machine Learning. I recently moved to New York City and am very excited to go to a TON of Mets games.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "NBA JAM",
+        "startDate": "2022",
+        "description": "Interactive math platform that customizes learning materials based on student interests. Building out curriculum, personalizations, and features into a comprehensive product.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.png",
+          "images/portfolio/animal-shelter/p2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "Deep Learning ETF Forecast",
+        "startDate": "2022",
+        "description": "Experiments  were  conducted  with  four  NNs,  Artificial   Neural   Network   (ANN),   vanilla Recurrent   NN   (RNN),   Long   Short   Term   Memory (LSTM)  and  Gated  Recurrent  Unit  (GRU)  on  weekly market indices from January 2016 to October 2019 (in-sample) and from November 2019 to October 2020 (out-sample).  Results  showed  that  the  MSCI  USA  could  be predicted based on the other 34 indices but the precision was  still  far  from  perfection.  However, NNs  beat  two benchmark models (LightGBM and ARMAX)to emerge as   the   better   choice   for   model.   Especially,   ANN outperformed   the  benchmark   by   about   19.1%,   the highest margin amongst the NNs in this experiment.",
+        "images": [
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-pandas-plain",
+            "name": "Pandas"
+          },
+          {
+            "class": "devicon-pytorch-plain",
+            "name": "Pytorch"
+          }
+        ]
+      },
+      {
+        "title": "Abode Property Management",
+        "startDate": "2019",
+        "description": "On a team of 4, built SAAS application used for tenants to pay rent and submit service requests to landlords, integrated with Stripe API for online payments",
+        "images": [
+          "images/portfolio/adventure/p1.png",
+          "images/portfolio/adventure/p2.png"
+        ],
+        "url": "https://github.com/griffinsandler/property-site-1",
+        "technologies": [
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          },
+          {
+            "class": "devicon-rails-plain",
+            "name": "Rails"
+          },
+          {
+            "class": "devicon-fastapi-plain",
+            "name": "Fast API"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Freelance",
+        "title": "Software Engineer",
+        "years": "10.2020 - present",
+        "mainTech": [
+          "Ruby on Rails"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "MongoDB",
+          "Wordpress",
+          "HTML5",
+          "CSS3"
+        ]
+      },
+      {
+        "company": "Georgia Tech",
+        "title": "Masters in CS",
+        "years": "01.2021-12.2022",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Pytorch",
+          "SkLearn",
+          "Machine Learning",
+          "Pandas",
+          "Numpy",
+          "PHP",
+          "MySQL",
+          "TensorFlow",
+          "Docker"
+
+        ]
+      }
+    ]
+  }

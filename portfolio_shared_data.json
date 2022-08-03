@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Griffin Sandler",
+      "titles": [ "Full Stack Engineer", "Python Developer", "Ruby on Rails Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/griffinsandler",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/griffinsta2.0/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Ruby",
+          "class": "devicon-ruby-plain",
+          "level": "95"
+        },
+        {
+          "name": "HTML5",
+          "class": "devicon-html5-plain",
+          "level": "80"
+        },
+        {
+          "name": "CSS3",
+          "class": "devicon-css3-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "75"
+        },
+        {
+          "name": "Pandas",
+          "class": "devicon-pandas-plain",
+          "level": "85"
+        },
+        {
+          "name": "Pytorch",
+          "class": "devicon-pytorch-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
